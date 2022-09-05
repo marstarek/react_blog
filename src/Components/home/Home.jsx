@@ -28,8 +28,11 @@ function Home(props) {
         </select>
         
         </div>
-    
-      
+        <div className="col">
+<Link to={`/create`}><h2>أكتب مقال جديد</h2>
+</Link>
+        </div>
+
       </div>
      
       {error && <div> <Notfound/> </div>}
