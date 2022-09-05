@@ -1,7 +1,13 @@
 # Getting Started with Create React App
 https://reactblog1997.herokuapp.com/
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="./home.png" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="./d2.png" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="./dd.png" width="100"/>
 </div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
