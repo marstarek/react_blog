@@ -1,11 +1,10 @@
 # Getting Started with Create React App
 https://reactblog1997.herokuapp.com/
 ![alt text](./home.png?raw=true)
+![alt text](./dd.png?raw=true)
+![alt text](./d2.png?raw=true)
 
-  <img src="./home.png" width="100"/>
 
-  <img src="./d2.png" width="100"/>
-  <img src="./dd.png" width="100"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
