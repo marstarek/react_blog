@@ -1,0 +1,24 @@
+@font-face {
+     font-family: "tajwalRegular";   /*Can be any text*/
+     src: local("tajwalRegular"),
+       url("./fonts/ArbFONTS-Tajawal-Regular-1.ttf") format("ttf");
+   }
+   .App {
+     font-family: 'Tajawal', sans-serif;
+
+     /* font-family: "tajwalRegular"; */
+   }
+   body {
+     margin: 0;
+     font-family: 'Tajawal', sans-serif;
+color: aliceblue;
+font-size: 20px;
+direction: rtl;
+     /* font-family: "tajwalRegular";  */
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+     background:#23272ade
+   }
+
+
+   

@@ -1,0 +1,5 @@
+@font-face {
+     font-family: "tajwalRegular";   /*Can be any text*/
+     src: local("ArbFONTS-Tajawal-Regular-1"),
+       url("./ArbFONTS-Tajawal-Regular-1.ttf") format("ttf");
+   }
